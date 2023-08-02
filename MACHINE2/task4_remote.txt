@@ -1,0 +1,2 @@
+git clone  git@github.com:nirl123/bootcamp19.git
+git clone git@github.com:nirl123/bootcamp19.git
